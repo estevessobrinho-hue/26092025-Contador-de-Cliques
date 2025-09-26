@@ -1,0 +1,1 @@
+# 26092025-Contador-de-Cliques
